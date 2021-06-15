@@ -12,6 +12,8 @@ site:
     siteHierarchies:
         - root
     siteRootDir: docs
+    assetsPrefix: german-for-beginners
+    siteUrl: https://harshita-mindfire.github.io
     usePrettyRefs: true
     title: Dendron
     description: Personal knowledge space

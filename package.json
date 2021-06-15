@@ -1,7 +1,6 @@
 {
   "name": "German",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -15,5 +14,14 @@
   "dependencies": {
     "@dendronhq/dendron-11ty": "^0.46.1",
     "@dendronhq/dendron-cli": "^0.46.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshita-mindfire/german-for-beginners.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Harshita-mindfire/german-for-beginners/issues"
+  },
+  "homepage": "https://github.com/Harshita-mindfire/german-for-beginners#readme",
+  "description": ""
 }
