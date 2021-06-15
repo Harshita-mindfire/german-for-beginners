@@ -2,7 +2,7 @@
 id: q0jjyxP_uaKUjOBhV00Pa
 title: Profession
 desc: ''
-updated: 1623665708677
+updated: 1623756468688
 created: 1623663134921
 ---
 ## Summary 
@@ -25,5 +25,3 @@ At the end of this section you'll learn the professions
 - ein Arzt : a doctor (masculine)
 - eine Ärztin : a doctor
 
-### Backlinks
-- [[beginner]]

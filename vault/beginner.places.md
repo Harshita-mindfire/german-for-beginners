@@ -2,7 +2,7 @@
 id: nFb-1Jb3_GKTUL6Q0JIxJ
 title: Places
 desc: ''
-updated: 1623665705343
+updated: 1623756467463
 created: 1623663441488
 ---
 ## Summary
@@ -26,6 +26,3 @@ At the end of this section, you'll learn what to call the frequent places you mi
 - das cafe - the coffee shop
 - der supermarkt - the super market
 - die Universität - the university
-
-### Backlinks
-- [[beginner]]

@@ -2,7 +2,7 @@
 id: K-O6uJoIRvzACd2ZQaG10
 title: Greetings
 desc: ''
-updated: 1623665285825
+updated: 1623756466053
 created: 1623662657534
 ---
 ## Summary
@@ -26,7 +26,4 @@ At the end of this section you'll learn the greetings in german language
 - es tut meir led : I'm sorry
 - entschuldigung : excuse me
 
-**Backlinks**
-
-- [[beginner]]
 
