@@ -2,7 +2,7 @@
 id: q0jjyxP_uaKUjOBhV00Pa
 title: Profession
 desc: ''
-updated: 1623756468688
+updated: 1624256571591
 created: 1623663134921
 ---
 ## Summary 
@@ -20,8 +20,10 @@ At the end of this section you'll learn the professions
 - schauspielerin : actress
 - lehrer : teacher
 - lehrerin : she teacher
-- student : student
-- studentin : student (feminine)
+- Schüler : student
+- Schülerin : student (feminine)
 - ein Arzt : a doctor (masculine)
 - eine Ärztin : a doctor
-
+- anwalt : lawyer
+- Anwältin : lawyer (feminine)
+- Polizist : police officer

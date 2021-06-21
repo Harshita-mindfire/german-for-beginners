@@ -10,7 +10,7 @@ lookupConfirmVaultOnCreate: false
 site:
     copyAssets: true
     siteHierarchies:
-        - root
+        - beginner
     siteRootDir: docs
     assetsPrefix: german-for-beginners
     siteUrl: https://harshita-mindfire.github.io

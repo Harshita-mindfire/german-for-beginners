@@ -2,7 +2,7 @@
 id: K-O6uJoIRvzACd2ZQaG10
 title: Greetings
 desc: ''
-updated: 1623756466053
+updated: 1624255805368
 created: 1623662657534
 ---
 ## Summary
@@ -24,6 +24,6 @@ At the end of this section you'll learn the greetings in german language
 - super : great
 - danke : thank you
 - es tut meir led : I'm sorry
+- Freut mich : nice to meet you
 - entschuldigung : excuse me
-
 

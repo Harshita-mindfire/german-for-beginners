@@ -2,7 +2,7 @@
 id: nFb-1Jb3_GKTUL6Q0JIxJ
 title: Places
 desc: ''
-updated: 1623756467463
+updated: 1624258081843
 created: 1623663441488
 ---
 ## Summary
@@ -21,8 +21,17 @@ At the end of this section, you'll learn what to call the frequent places you mi
 - ein Markt : a market
 - der bahnhof : the train station
 - der U-bahnstation - the subway station
-- das kino : the threater
+- das kino : the theater
 - der taxistand - the taxi stand
 - das cafe - the coffee shop
 - der supermarkt - the super market
 - die Universität - the university
+- Geldautomat : ATM
+- die Bäckerei : the bakery
+
+### Directions
+- in der Nähe : nearby
+- da drüben : over there
+- left : links
+- right : Recht
+

@@ -2,7 +2,7 @@
 id: MZqucQRpOGQ-qyBz_oe0r
 title: Todo
 desc: ''
-updated: 1623666630935
+updated: 1624258181349
 created: 1623665827508
 ---
 
@@ -18,6 +18,6 @@ These are some of the stuff that helped me personally learn german.
 
 - Practise makes the man perfect: Never miss a day.
 
-- use this as your personal notes, keep visiting it again.
+- use this as a recap, keep visiting it again.
 
 - This books has helped me a lot to understand german grammer. [English Grammer for German Students](https://oiipdf.com/download/18578)
