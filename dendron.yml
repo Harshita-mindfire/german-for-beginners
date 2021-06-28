@@ -13,7 +13,7 @@ site:
         - beginner
     siteRootDir: docs
     assetsPrefix: german-for-beginners
-    siteUrl: https://harshita-mindfire.github.io
+    siteUrl: 'https://harshita-mindfire.github.io'
     usePrettyRefs: true
     title: Dendron
     description: Personal knowledge space
@@ -22,3 +22,10 @@ site:
         payload:
             - vault
 initializeRemoteVaults: true
+journal:
+    dailyDomain: daily
+    name: journal
+    dateFormat: y.MM.dd
+    addBehavior: childOfDomain
+    firstDayOfWeek: 1
+dendronVersion: 0.47.1

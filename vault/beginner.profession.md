@@ -2,7 +2,7 @@
 id: q0jjyxP_uaKUjOBhV00Pa
 title: Profession
 desc: ''
-updated: 1624256571591
+updated: 1624883196725
 created: 1623663134921
 ---
 ## Summary 
@@ -27,3 +27,6 @@ At the end of this section you'll learn the professions
 - anwalt : lawyer
 - Anwältin : lawyer (feminine)
 - Polizist : police officer
+- kanzler : chancellor
+- kanzlerin : chancellor (feminine)
+- Künstler : artist

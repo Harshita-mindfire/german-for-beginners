@@ -2,7 +2,7 @@
 id: SKPOe208PWyuKXUQlGIp5
 title: Food
 desc: ''
-updated: 1624257627239
+updated: 1624882712911
 created: 1624256907757
 ---
 
@@ -33,6 +33,9 @@ This section covers the food items. I've mentioned the articles to remeber them 
 - bier : beer
 - der wein : wine
 - der Kuchen : Cake
+- orange(plu:n) : orange
+- tomate(plu:n) : tomatoe
+- kartoffel(plu:n) : potato
 
 ### Extra
 

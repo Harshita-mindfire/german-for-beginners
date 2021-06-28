@@ -2,7 +2,7 @@
 id: nFb-1Jb3_GKTUL6Q0JIxJ
 title: Places
 desc: ''
-updated: 1624258081843
+updated: 1624882463429
 created: 1623663441488
 ---
 ## Summary
@@ -28,6 +28,7 @@ At the end of this section, you'll learn what to call the frequent places you mi
 - die Universität - the university
 - Geldautomat : ATM
 - die Bäckerei : the bakery
+- marktplatz: marketplace
 
 ### Directions
 - in der Nähe : nearby

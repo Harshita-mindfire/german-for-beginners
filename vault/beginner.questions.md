@@ -2,7 +2,7 @@
 id: b_FjxdJCuB9gNUuEERf7L
 title: Questions
 desc: ''
-updated: 1624258318821
+updated: 1624882853037
 created: 1624255883547
 ---
 
@@ -34,3 +34,6 @@ This sections covers basic day-to-day questions.
 
 - Entschuldigung, wo ist die speisekarte? : 
 Excuse me, where is the menu?
+
+- wie viel : How much?
+- wirklich? really?
