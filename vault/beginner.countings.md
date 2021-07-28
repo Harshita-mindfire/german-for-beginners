@@ -1,6 +1,6 @@
 ---
 id: 5fVIzaK8wEzWA31njBAGJ
-title: Counting
+title: Countings
 desc: ''
 updated: 1624883207726
 created: 1624882484687

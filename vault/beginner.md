@@ -23,7 +23,7 @@ Here are the topics covered in beginner section:
 - [[beginner.family-relations]]
 - [[beginner.profession]]
 - [[beginner.places]]
-- [[beginner.questions]]
+- [[beginner.everyday-questions]]
 - [[beginner.food]]
 
 Also,I keep updating it as I learn more.

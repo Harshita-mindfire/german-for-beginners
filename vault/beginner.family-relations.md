@@ -2,7 +2,7 @@
 id: hbkE8Nb_erOnh5GK2wN3s
 title: Family Relations
 desc: ''
-updated: 1623756460655
+updated: 1627447547666
 created: 1623662743594
 ---
 
@@ -29,7 +29,12 @@ At the end of this section you'll learn the genders and family realtions in germ
 - mein mann - husband 
 - sohn : son
 - Tochter : daughter
-- freundin - friend ( feminine)
-- Freund - friend (masculine)
-
+- freundin - girlfriend
+- Freund - boyfriend 
+- Onkel - uncle
+- tante - aunty
+- oma- grandma
+- opa- grandpa
+- mitbewohner - roommate (masculine)
+- mitbewonerin- roommate(feminine)
 

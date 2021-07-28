@@ -1,6 +1,6 @@
 ---
 id: b_FjxdJCuB9gNUuEERf7L
-title: Questions
+title: Everyday Questions
 desc: ''
 updated: 1624882853037
 created: 1624255883547
